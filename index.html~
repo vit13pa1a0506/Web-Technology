@@ -30,13 +30,13 @@
         </div>
         <div id="projects">
             <h2>Project Details</h2>
-          
+            <ol id="project-list">
                 <ul id="project-details">
                     <li><span class="key">Project Name:</span><span class="value">RESUME</span></li>
                     <li><span class="key">About:</span><span class="value">WEB TECHNOLOGIES</span></li>
                     <li><span class="key">Year of doing:</span><span class="value">2016</span></li>
                 </ul>
-            
+            </ol>
         </div>
         <div id="education">
             <h2>Education Details</h2>
